@@ -1,6 +1,6 @@
-Hi my name is Quentin I'm from germany and I like to code minecraft plugins :-)
+Hi my name is Quentin I'm from germany and I like to code with java :-)
 
-<!---
-Quentiiiin/Quentiiiin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+if you know a way to translate latin texts automatic pls dm me :adobe_xd:
+
+
+
