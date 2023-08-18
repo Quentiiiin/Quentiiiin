@@ -1,7 +1,5 @@
-Hi my name is Quentin 🖖.\
-~~I'm a Java dev but atm I mainly use JS/TS for my projects.~~ \
-now using Rust\
-also I use **Arch btw**\
+Hi my name is Quentin 🖖 \
+I use **Arch btw**\
 
                     -@                
                    .##@
