@@ -1,5 +1,5 @@
 Hi my name is Quentin 🖖 \
-I use **Arch btw** \
+I use **Arch btw**
 
                     -@                
                    .##@
