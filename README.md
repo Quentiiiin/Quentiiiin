@@ -16,6 +16,3 @@ I use **Arch btw**
        /#####h**``       `**%@####@   
       @H@*`                    `*%#@  
      *`                            `* 
-     
-  ![](https://komarev.com/ghpvc/?username=Quentiiiin&style=flat-square&color=green)
-  
