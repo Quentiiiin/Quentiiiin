@@ -8,7 +8,7 @@ I use **Arch btw** (in the windows subsystem for linux)
                 . *######@                 ----------------------
                .##@o@#####@                OS: Arch Linux on Windows 11
               /############@               Languages: Typescript, Java
-             /##############@              Frameworks: Svelte(Kit), PaperMC
+             /##############@              Frameworks: Svelte(Kit), Bun, PaperMC
             @######@**%######@             
            @######`     %#####o       
           @######@       ######%      
